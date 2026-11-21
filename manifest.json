@@ -1,0 +1,11 @@
+{
+  "name": "Mathemagrid",
+  "short_name": "Mathemagrid",
+  "description": "Offline arithmetic grid puzzles",
+  "start_url": "./mathemagrid.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#222222"
+}
+
